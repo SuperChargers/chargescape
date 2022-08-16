@@ -1,0 +1,8 @@
+{
+  "name": "chargescape",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:SuperChargers/chargescape.git",
+  "author": "Andrew Patipaksiri <apatipaksiri@where2getit.com>",
+  "license": "MIT"
+}
